@@ -1,0 +1,20 @@
+Working directory:
+/home/oucspdn020/SIPE/Intro/C
+
+Let's see whether you can guess the number that I'm thinking of.
+It's between 4 and 20.
+What number am I thinking of?
+You guessed 0.
+Bro! That's not between 4 and 20!
+What number am I thinking of?
+You guessed 25.
+Bro! That's not between 4 and 20!
+What number am I thinking of?
+You guessed 5.
+Are you even trying!
+What number am I thinking of?
+You guessed 14.
+Almost there.
+What number am I thinking of?
+You guessed 15.
+Awesome!
